@@ -10,7 +10,5 @@ This link is only accessible to those who know the 4-digit paper ID.
 
 [Click here to access the protected repository](https://betterjingxuan.github.io/FlashLink/)
 
-If you don't have the paper ID, please contact the repository owner.
-
-// To protect unpublished work, please go ahead and access our work from an anonymous repository: 
+If you don't have the paper ID, please contact the repository owner. 
 
