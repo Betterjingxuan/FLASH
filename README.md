@@ -8,7 +8,7 @@ This link is only accessible to those who know the 4-digit paper ID.
 1. To access the repository, enter the correct 4-digit paper ID (password).
 2. The paper ID is a 4-digit number. 
 
-[Click here to access the protected repository](https://example.com/protected-link)
+[Click here to access the protected repository](https://betterjingxuan.github.io/FlashLink/)
 
 If you don't have the paper ID, please contact the repository owner.
 
